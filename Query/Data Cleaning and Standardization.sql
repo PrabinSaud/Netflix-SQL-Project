@@ -1,6 +1,17 @@
 /* =============================================================
    MODEL 1 : DATA CLEANING AND STANDARDIZATION
-   ============================================================= */
+   ============================================================= 
+   
+   GOALS:
+   - Convert date_added to DATE
+   - Clean spaces in text columns
+   - Handle missing values
+   - Standardize rating categories
+   - Extract numeric duration
+   - Separate Movie vs TV Show duration types
+
+   Write all data cleaning queries for this module below.
+   */
 
 /* -------------------------------------------------------------
    STEP 1: Convert date_added to proper DATE format (Preview)
