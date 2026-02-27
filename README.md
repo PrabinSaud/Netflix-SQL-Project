@@ -53,20 +53,12 @@ Netflix-SQL-Project/
 ```
 
 ---
-
 ## 📊 Dashboard Screenshot
 
-> ⚠️ If your screenshot is inside  
-> `Outputs/Power BI dashboard/`  
-> then this path will work:
-
-```markdown
 <p align="center">
-  <img src="Outputs/Power%20BI%20dashboard/Screenshot%202026-02-27%20213242.png" width="900">
+  <img src="Outputs/Power%20Bi%20dashboard/Screenshot%202026-02-27%20213242.png" width="900">
 </p>
-```
 
-If it is inside another folder, update the folder name accordingly.
 
 ---
 
