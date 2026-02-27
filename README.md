@@ -1,19 +1,36 @@
-📌 Netflix SQL Mini Project
+# 📌 Netflix SQL Mini Project
 
 A complete SQL-based data analysis project using the Netflix Movies & TV Shows dataset.  
 This project covers data cleaning, standardization, genre insights, rating classification, duration analysis, director & cast exploration, and dashboard-ready queries.
 
 ---
 
-## 📊 Dashboard Screenshot
+## 🎯 Project Objective
 
-<p align="center">
-  <img src="Outputs/Screenshot%202026-02-27%20213242.png" width="900">
-</p>
+To analyze Netflix content data using SQL and extract meaningful insights such as:
 
+- Content type distribution (Movies vs TV Shows)
+- Most common genres
+- Rating-based classification
+- Duration trends
+- Director & cast frequency analysis
+- Dashboard-ready summary queries
 
-📁 Project Structure
+---
 
+## 🛠️ Tools & Technologies
+
+- Database: MySQL
+- Query Language: SQL
+- Visualization: Power BI
+- Application Testing: Oracle APEX
+- Version Control: Git & GitHub
+
+---
+
+## 📁 Project Structure
+
+```bash
 Netflix-SQL-Project/
 │
 ├── Data/
@@ -33,56 +50,50 @@ Netflix-SQL-Project/
 │   └── ScreenShot output in oracle apex/
 │
 └── README.md
+```
 
 ---
 
-🎯 Project Objective
+## 📊 Dashboard Screenshot
 
-To analyze Netflix content data using SQL and extract meaningful business insights such as:
+> ⚠️ If your screenshot is inside  
+> `Outputs/Power BI dashboard/`  
+> then this path will work:
 
-- Content type distribution (Movies vs TV Shows)
-- Most common genres
-- Rating categories
-- Duration trends
-- Director and cast frequency analysis
-- Dashboard-ready summary queries
+```markdown
+<p align="center">
+  <img src="Outputs/Power%20BI%20dashboard/Screenshot%202026-02-27%20213242.png" width="900">
+</p>
+```
 
----
-
-🛠️ Tools & Technologies Used
-
-- Database: MySQL
-- Query Language: SQL
-- Visualization: Power BI
-- Application Testing: Oracle APEX
-- Version Control: Git & GitHub
+If it is inside another folder, update the folder name accordingly.
 
 ---
 
-📊 Key Analysis Performed
+## 📈 Key Analysis Performed
 
-✔ Data Cleaning and Standardization  
+✔ Data Cleaning & Standardization  
 ✔ Genre Distribution Analysis  
 ✔ Rating Classification (Kids, Teen, Adult)  
-✔ Duration Insights (Movie minutes & TV seasons)  
-✔ Director and Cast Analysis  
-✔ Summary Dashboard Queries  
+✔ Duration Analysis (Minutes & Seasons)  
+✔ Director & Cast Insights  
+✔ Dashboard Summary Queries  
 
 ---
 
-📈 Output Files
+## 📦 Outputs
 
 The Outputs folder contains:
 
-- Cleaned datasets  
-- Query result exports  
-- Power BI dashboard files  
-- Oracle APEX screenshots  
+- Cleaned datasets
+- Query result exports
+- Power BI dashboard files
+- Oracle APEX screenshots
 
 ---
 
-👤 Author
+## 👤 Author
 
-Prabin Saud  
+**Prabin Saud**  
 BCA  
 SQL Data Analysis Project
